@@ -25,7 +25,7 @@ Installation
 
 1. Clone the Repository:
 
-       git clone https://github.com/YOUR_GITHUB_USERNAME/encryption_decryption_tool.git
+       git clone https://github.com/ssAmOx/encryption_decryption_tool.git
        cd encryption_decryption_tool
    
 2. Install Dependencies:
